@@ -1,0 +1,18 @@
+C:\Users\Karl\Desktop\C#_Aton\Activity4\Activity4\bin\Debug\Activity4.exe.config
+C:\Users\Karl\Desktop\C#_Aton\Activity4\Activity4\bin\Debug\Activity4.exe
+C:\Users\Karl\Desktop\C#_Aton\Activity4\Activity4\bin\Debug\Activity4.pdb
+C:\Users\Karl\Desktop\C#_Aton\Activity4\Activity4\obj\Debug\Activity4.Cutomer_Profile.resources
+C:\Users\Karl\Desktop\C#_Aton\Activity4\Activity4\obj\Debug\Activity4.Properties.Resources.resources
+C:\Users\Karl\Desktop\C#_Aton\Activity4\Activity4\obj\Debug\Activity4.csproj.GenerateResource.Cache
+C:\Users\Karl\Desktop\C#_Aton\Activity4\Activity4\obj\Debug\Activity4.exe
+C:\Users\Karl\Desktop\C#_Aton\Activity4\Activity4\obj\Debug\Activity4.pdb
+C:\Users\Karl\Desktop\C#_Aton\Activity4\Activity4\obj\Debug\Activity4.csprojResolveAssemblyReference.cache
+C:\Users\Karl\Desktop\C# WinForm\Activity4\Activity4\bin\Debug\Activity4.exe.config
+C:\Users\Karl\Desktop\C# WinForm\Activity4\Activity4\obj\Debug\Activity4.exe
+C:\Users\Karl\Desktop\C# WinForm\Activity4\Activity4\obj\Debug\Activity4.pdb
+C:\Users\Karl\Desktop\C# WinForm\Activity4\Activity4\bin\Debug\Activity4.exe
+C:\Users\Karl\Desktop\C# WinForm\Activity4\Activity4\bin\Debug\Activity4.pdb
+C:\Users\Karl\Desktop\C# WinForm\Activity4\Activity4\obj\Debug\Activity4.csprojResolveAssemblyReference.cache
+C:\Users\Karl\Desktop\C# WinForm\Activity4\Activity4\obj\Debug\Activity4.Cutomer_Profile.resources
+C:\Users\Karl\Desktop\C# WinForm\Activity4\Activity4\obj\Debug\Activity4.Properties.Resources.resources
+C:\Users\Karl\Desktop\C# WinForm\Activity4\Activity4\obj\Debug\Activity4.csproj.GenerateResource.Cache
